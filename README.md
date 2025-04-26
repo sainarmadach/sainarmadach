@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently building **full-stack web applications** focused on real-world impact and scalability.
-- 🌱 Learning **Next.js**, **TypeScript**, and **Cloud Deployments** (AWS, Render).
+- 🌱 Exploring **Next.js**, **TypeScript**, and **Cloud Deployments** (AWS, Render).
 - 💬 Ask me about **React**, **Node.js**, **MongoDB**, **REST APIs**, **Backend Development**.
 - 📫 Reach me at: [sainarmadachamarthi@gmail.com](mailto:sainarmadachamarthi@gmail.com)
 - 📝 Portfolio: *Coming Soon!*
@@ -32,8 +32,8 @@
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **FocusFlow+** | AI-powered task and productivity manager with smart scheduling, mood tracking, and motivational features. | React, FastAPI, PostgreSQL, TailwindCSS |
-| **SmartRead Hub** | AI Book Summarizer supporting PDFs, text, and URLs with keyword extraction. | React, FastAPI, MongoDB, NLP |
-| **Student Complaint Management System** | Platform for students to raise and manage complaints securely. | MERN Stack |
+| **SmartRead Hub** | AI Book Summarizer supporting PDFs, text, and URLs with keyword extraction and summaries. | React, FastAPI, MongoDB, NLP |
+| **Student Complaint Management System** | Secure web app for students to raise and manage complaints digitally. | MERN Stack |
 | **To-Do List App** | Minimalistic app to manage daily goals and tasks effectively. | React, JavaScript |
 
 ---
